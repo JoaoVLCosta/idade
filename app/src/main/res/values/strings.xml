@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">idade</string>
+    <string name="autor">JOÃO VITOR LIMA COSTA - RA: 1110482313015</string>
+
+    <string name="lb_data">Insira sua data de nascimento</string>
+    <string name="dia">Dia</string>
+    <string name="mes">Mês</string>
+    <string name="ano">Ano</string>
+    <string name="calc_idade">Calcular Idade</string>
+
+    <string name="lb_dia">Dia</string>
+    <string name="lb_mes">Mês</string>
+    <string name="lb_ano">Ano</string>
+
+</resources>
